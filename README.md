@@ -14,7 +14,8 @@ Projeto estático que simula um smartphone no centro da tela e, dentro dele, car
 - Layout responsivo simples e visual limpo.
 
 ---
-Visualizar -> 
+🔗 Visualizar online
+clique aqui -> https://richard-moura.github.io/projeto-rede-social/
 
 
 
@@ -24,9 +25,5 @@ Visualizar ->
 
 
 
-## 📜 Licença
-Uso pessoal e educacional. Ajuste para suas necessidades e inclua créditos(cursoemvideo) das imagens/icons conforme aplicável.
-
----
 
 
